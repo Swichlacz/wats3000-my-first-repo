@@ -28,7 +28,7 @@ floating on top of the waves
 wrapped in golden light, 
 green as always.*
 
--- Misuzu Kaneko
+-- __Misuzu Kaneko__
 
 http://misuzukaneko.com/index.php/sample-poems/
 
