@@ -2,7 +2,7 @@
 
  
 
-*“Such a lovely island—<!--2 spaces after this line--> 
+*“Such a lovely island—<!--2 spaces after this line-->   
 seems a shame for it to be out there,<!--2 spaces after this line-->  
 so I’ll just snag it with a rope<!--2 spaces after this line-->  
 and take it away.”*  
@@ -13,7 +13,7 @@ and take it away.”*
 
  
 
-*He’s lying, he’s lying, I thought.<!--2 spaces after this line-->
+*He’s lying, he’s lying, I thought.<!--2 spaces after this line-->  
 But as night grew darker, I began to worry.*<!--2 spaces after this line-->
 
  
