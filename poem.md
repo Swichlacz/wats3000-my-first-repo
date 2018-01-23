@@ -2,9 +2,9 @@
 
  
 
-*“Such a lovely island—  
-seems a shame for it to be out there,  
-so I’ll just snag it with a rope  
+*“Such a lovely island—<!--2 spaces after this line--> 
+seems a shame for it to be out there,<!--2 spaces after this line-->  
+so I’ll just snag it with a rope<!--2 spaces after this line-->  
 and take it away.”*  
 
  
@@ -13,19 +13,19 @@ and take it away.”*
 
  
 
-*He’s lying, he’s lying, I thought.  
-But as night grew darker, I began to worry.*
+*He’s lying, he’s lying, I thought.<!--2 spaces after this line-->
+But as night grew darker, I began to worry.*<!--2 spaces after this line-->
 
  
 
-*And in the morning, with my heart racing  
+*And in the morning, with my heart racing<!--2 spaces after this line-->  
 I ran to the beach.*
 
  
 
-*Benten Island was still there  
-floating on top of the waves  
-wrapped in golden light,   
+*Benten Island was still there<!--2 spaces after this line-->  
+floating on top of the waves<!--2 spaces after this line-->  
+wrapped in golden light,<!--2 spaces after this line-->   
 green as always.*
 
 -- __Misuzu Kaneko__
